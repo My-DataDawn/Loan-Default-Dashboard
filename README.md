@@ -28,5 +28,5 @@ Power BI Desktop
 Add SQL queries and a Python (pandas) analysis of the same data.
 
 ## Screenshots
-![Dashboard](dashboard.png)
-![Dashboard filtered to type3](dashboard1.png)
+![Dashboard](Dashboard.png)
+![Dashboard filtered to type3](Dashboard filtered to type3.png)
