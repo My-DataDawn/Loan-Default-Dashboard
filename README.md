@@ -29,4 +29,4 @@ Add SQL queries and a Python (pandas) analysis of the same data.
 
 ## Screenshots
 ![Dashboard](Dashboard.png)
-![Dashboard filtered to type3](Dashboard filtered to type3.png)
+![Dashboard filtered to type3](Dashboard%20filtered%20to%20type3.png)
